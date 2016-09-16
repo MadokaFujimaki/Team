@@ -14,3 +14,6 @@ C:\Users\madok\Desktop\Github\OOPGruppArbete3\OOPGruppArbete3\obj\Debug\OOPGrupp
 C:\Users\madok\Desktop\Github\TeamProject\OOPGruppArbete3\OOPGruppArbete3\bin\Debug\OOPGruppArbete3.exe.config
 C:\Users\madok\Desktop\Github\TeamProject\OOPGruppArbete3\OOPGruppArbete3\obj\Debug\OOPGruppArbete3.exe
 C:\Users\madok\Desktop\Github\TeamProject\OOPGruppArbete3\OOPGruppArbete3\obj\Debug\OOPGruppArbete3.pdb
+C:\Users\madok\Desktop\Github\TeamProject\OOPGruppArbete3\bin\Debug\OOPGruppArbete3.exe.config
+C:\Users\madok\Desktop\Github\TeamProject\OOPGruppArbete3\obj\Debug\OOPGruppArbete3.exe
+C:\Users\madok\Desktop\Github\TeamProject\OOPGruppArbete3\obj\Debug\OOPGruppArbete3.pdb
